@@ -33,8 +33,8 @@
 |Install the views module, features module, and the strong arm module | $ drush dl module-name and then enable modules in the Drupal toolbar |
 | Create a feature for "Site Configuration" | add feature using strongarm | complete |
 | Update the sites theme and set the about page to be landing page | install new theme and set about page to be landing page | complete |
-| Add a "Book Review" content type with all fields required | label: "Book Title" text: "Book Author" select: "Book Rating" body: "Book Review" | incomplete |
-| Create a new feature called "Book Review"  and generate it within the modules directory | enable within the Drupal toolbar /modules | incomplete |
+| Add a "Book Review" content type with all fields required | label: "Book Title" text: "Book Author" select: "Book Rating" body: "Book Review" | complete |
+| Create a new feature called "Book Review"  and generate it within the modules directory | enable within the Drupal toolbar /modules | complete |
 | Create a new view to display  a "New Books" block (w/out pager) | create view with routable "titles" only | incomplete |
 | Add books to test that the views is working | add books | incomplete |
 | Create a role called "Reviewer" that has the same permissions as an authenticated user | create new user role | incomplete |
