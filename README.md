@@ -38,7 +38,7 @@
 | Create a new view to display  a "New Books" block (w/out pager) | create view with routable "titles" only | complete |
 | Add books to test that the views is working | add book reviews | complete |
 | Create a role called "Reviewer" that has the same permissions as an authenticated user | create new user role | complete |
-| Create a special coupon to be displayed on the landing page, only viewable by logged in users | create block | incomplete |
+| Create a special coupon to be displayed on the landing page, only viewable by logged in users | create block | complete |
 
 
 
