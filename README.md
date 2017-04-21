@@ -1,6 +1,6 @@
 # Lending Tree Books
 
-## Created by Xia Amendolara and Matt Kelley April 21st, 2017
+## Created by Xia Amendolara 21st, 2017
 
   This webstie was created using Drupal, a PHP framework, at Epicodus. This website is a mockup of a bookstore website calld Lending Tree Books.
 
@@ -37,7 +37,7 @@
 | Create a new feature called "Book Review"  and generate it within the modules directory | enable within the Drupal toolbar /modules | complete |
 | Create a new view to display  a "New Books" block (w/out pager) | create view with routable "titles" only | complete |
 | Add books to test that the views is working | add book reviews | complete |
-| Create a role called "Reviewer" that has the same permissions as an authenticated user | create new user role | incomplete |
+| Create a role called "Reviewer" that has the same permissions as an authenticated user | create new user role | complete |
 | Create a special coupon to be displayed on the landing page, only viewable by logged in users | create block | incomplete |
 
 
@@ -67,4 +67,4 @@ There are no known bugs at this time, but please contact the creator with questi
 ## Licensing
 This application features MIT licensing.
 
-Copyright &copy; 2017 **Xia Amendolara and Matt Kelley** All Rights Reserved.
+Copyright &copy; 2017 **Xia Amendolara** All Rights Reserved.
