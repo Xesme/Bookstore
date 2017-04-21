@@ -29,10 +29,10 @@
 | Remove the .gitignore file | $ git rm .gitignore | completed |
 | Add README.md | $ touch README.md | completed |
 | Create two basic pages "About" and "Locations" | add content/basic page | complete |
-| Enable the Contact module and grant permissions to all visitors | enable module in the Drupal toolbar | incomplete |
+| Enable the Contact module and grant permissions to all visitors | enable module in the Drupal toolbar | complete |
 |Install the views module, features module, and the strong arm module | $ drush dl module-name and then enable modules in the Drupal toolbar |
+| Update the sites theme and set the about page to be landing page | install new theme and set about page to be landing page | complete |
 | Create a feature for "Site Configuration" | add feature  | incomplete |
-| Update the sites theme and set the about page to be landing page | install new theme and set about page to be landing page | incomplete |
 | Add a "Book Review" content type with all fields required | label: "Book Title" text: "Book Author" select: "Book Rating" body: "Book Review" | incomplete |
 | Create a new feature called "Book Review"  and generate it within the modules directory | enable within the Drupal toolbar /modules | incomplete |
 | Create a new view to display  a "New Books" block (w/out pager) | create view with routable "titles" only | incomplete |
