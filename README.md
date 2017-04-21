@@ -35,8 +35,8 @@
 | Update the sites theme and set the about page to be landing page | install new theme and set about page to be landing page | complete |
 | Add a "Book Review" content type with all fields required | label: "Book Title" text: "Book Author" select: "Book Rating" body: "Book Review" | complete |
 | Create a new feature called "Book Review"  and generate it within the modules directory | enable within the Drupal toolbar /modules | complete |
-| Create a new view to display  a "New Books" block (w/out pager) | create view with routable "titles" only | incomplete |
-| Add books to test that the views is working | add books | incomplete |
+| Create a new view to display  a "New Books" block (w/out pager) | create view with routable "titles" only | complete |
+| Add books to test that the views is working | add book reviews | complete |
 | Create a role called "Reviewer" that has the same permissions as an authenticated user | create new user role | incomplete |
 | Create a special coupon to be displayed on the landing page, only viewable by logged in users | create block | incomplete |
 
